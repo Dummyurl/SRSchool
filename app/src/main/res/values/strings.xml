@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SR School</string>
+    <string name="prompt_id">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="student_profile">Student\nProfile</string>
+    <string name="school_messages">School\nMessages</string>
+    <string name="attendance_report">Attendance\nReport</string>
+    <string name="time_table">Time\nTable</string>
+    <string name="home_work">Home\nWork</string>
+    <string name="teachers_notes">Teacher\nNotes</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
